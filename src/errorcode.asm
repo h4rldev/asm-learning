@@ -1,6 +1,6 @@
-global _start
+global _start ; set _start symbol
 
 _start:
-  mov eax, 1
-  mov ebx, 42
-  int 0x80
+  mov eax, 1  ; set syscall
+  mov ebx, 42 ; set errorcode
+  int 0x80    ; interrupt 80
