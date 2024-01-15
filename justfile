@@ -1,5 +1,3 @@
-set positional-arguments
-
 in_path := "./src/"
 out_path :="./out/"
 exec_path := "./exec/"
