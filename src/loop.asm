@@ -1,4 +1,4 @@
-global _start     ; init 
+global _start     ; init
 
 section .text
   _start:
