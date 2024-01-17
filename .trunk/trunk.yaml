@@ -17,13 +17,17 @@ runtimes:
 # This is the section where you manage your linters. (https://docs.trunk.io/check/configuration)
 lint:
   enabled:
-    - checkov@3.1.60
+    - include-what-you-use@0.20
+    - pragma-once
+    - clang-format@16.0.3
+    - clang-tidy@16.0.3
+    - checkov@3.1.63
     - trivy@0.48.3
     - yamllint@1.33.0
     - git-diff-check
     - markdownlint@0.38.0
-    - prettier@3.2.2
-    - trufflehog@3.63.9
+    - prettier@3.2.3
+    - trufflehog@3.63.10
 actions:
   enabled:
     - trunk-announce
