@@ -1,6 +1,8 @@
 # Learning x86asm
 
-I'm learning it through [this](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) tutorial
+I learnt x86 through [this](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) tutorial
+
+I will experiment with x64
 
 ## Afterword
 
