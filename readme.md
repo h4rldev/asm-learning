@@ -1,4 +1,4 @@
-# Learning x86asm
+# Learning Assembly
 
 I learnt x86 through [this](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) tutorial
 
